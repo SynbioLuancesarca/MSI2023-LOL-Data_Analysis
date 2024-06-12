@@ -1,0 +1,965 @@
+timestamp,type,gameId,summonerName,item,itemImg
+0.02205,ITEM_PURCHASED,2677225,BLG Bin,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.02755,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.030333333333333334,ITEM_PURCHASED,2677225,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.04095,ITEM_PURCHASED,2677225,JDG 369,Anel de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1056_mage_t1_doransring.png
+0.04205,ITEM_PURCHASED,2677225,JDG Kanavi,Broto de Esmagamusgo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1103_jungle_t1_mosstomperseedling.png
+0.04485,ITEM_PURCHASED,2677225,JDG Ruler,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.04703333333333334,ITEM_PURCHASED,2677225,JDG Kanavi,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.04703333333333334,ITEM_PURCHASED,2677225,JDG 369,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0476,ITEM_PURCHASED,2677225,BLG Elk,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.0476,ITEM_PURCHASED,2677225,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.04981666666666667,ITEM_PURCHASED,2677225,JDG 369,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.04981666666666667,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.04981666666666667,ITEM_PURCHASED,2677225,BLG ON,Gume do Ladrão Arcano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png
+0.05148333333333333,ITEM_PURCHASED,2677225,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05201666666666667,ITEM_PURCHASED,2677225,JDG 369,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.05425,ITEM_PURCHASED,2677225,JDG Ruler,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.05425,ITEM_PURCHASED,2677225,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05701666666666667,ITEM_PURCHASED,2677225,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0587,ITEM_PURCHASED,2677225,BLG Elk,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.0598,ITEM_PURCHASED,2677225,BLG ON,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.07086666666666666,ITEM_PURCHASED,2677225,JDG knight,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.07585,ITEM_PURCHASED,2677225,BLG Yagao,Anel de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1056_mage_t1_doransring.png
+0.07585,ITEM_PURCHASED,2677225,BLG Yagao,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07585,ITEM_PURCHASED,2677225,BLG Yagao,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.08251666666666667,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.08251666666666667,ITEM_PURCHASED,2677225,JDG MISSING,Escudo Relicário,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3858_tank_t1_relicshield.png
+0.08251666666666667,ITEM_PURCHASED,2677225,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.08251666666666667,ITEM_PURCHASED,2677225,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.08473333333333333,ITEM_PURCHASED,2677225,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.08975,ITEM_PURCHASED,2677225,JDG knight,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.21128333333333332,ITEM_PURCHASED,2677225,BLG XUN,Filhote de Garrabrasa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1101_jungle_t1_scorchclawpup.png
+0.21625,ITEM_PURCHASED,2677225,JDG Kanavi,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+0.22565,ITEM_PURCHASED,2677225,BLG XUN,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.22901666666666667,ITEM_PURCHASED,2677225,BLG XUN,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+1.0529166666666667,ITEM_PURCHASED,2677225,JDG MISSING,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+2.9076666666666666,ITEM_PURCHASED,2677225,JDG Kanavi,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+2.9126666666666665,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+2.93275,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+3.689033333333333,ITEM_PURCHASED,2677225,BLG Bin,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+3.7168,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+3.7195666666666667,ITEM_PURCHASED,2677225,BLG Bin,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+3.722366666666667,ITEM_PURCHASED,2677225,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+3.7352,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+3.879766666666667,ITEM_PURCHASED,2677225,JDG 369,Cristal de Safira,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1027_base_t1_saphirecrystal.png
+3.9248166666666666,ITEM_PURCHASED,2677225,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+3.9505166666666667,ITEM_PURCHASED,2677225,JDG 369,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+4.140783333333333,ITEM_PURCHASED,2677225,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.155783333333333,ITEM_PURCHASED,2677225,JDG Ruler,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+4.2108,ITEM_PURCHASED,2677225,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+4.525483333333334,ITEM_PURCHASED,2677225,BLG Elk,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+4.5549,ITEM_PURCHASED,2677225,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.677716666666667,ITEM_PURCHASED,2677225,BLG ON,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+4.7856,ITEM_PURCHASED,2677225,BLG ON,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+4.791783333333333,ITEM_PURCHASED,2677225,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+4.8094833333333336,ITEM_PURCHASED,2677225,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+4.825066666666666,ITEM_PURCHASED,2677225,JDG MISSING,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+4.828383333333333,ITEM_PURCHASED,2677225,BLG ON,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+4.831133333333334,ITEM_PURCHASED,2677225,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+5.001416666666667,ITEM_PURCHASED,2677225,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+5.004,ITEM_PURCHASED,2677225,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+5.019583333333333,ITEM_PURCHASED,2677225,BLG Yagao,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+5.024033333333334,ITEM_PURCHASED,2677225,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.026833333333333,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+5.031266666666666,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.0784666666666665,ITEM_PURCHASED,2677225,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.0818,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+5.439566666666667,ITEM_PURCHASED,2677225,JDG knight,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+5.47475,ITEM_PURCHASED,2677225,JDG knight,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+5.8076,ITEM_PURCHASED,2677225,BLG XUN,Cinto do Gigante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1011_class_t2_giantsbelt.png
+5.824833333333333,ITEM_PURCHASED,2677225,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.82705,ITEM_PURCHASED,2677225,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.83425,ITEM_PURCHASED,2677225,BLG XUN,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+6.1029333333333335,ITEM_PURCHASED,2677225,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+6.183083333333333,ITEM_PURCHASED,2677225,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+6.184183333333333,ITEM_PURCHASED,2677225,BLG Bin,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+6.194733333333334,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+6.26035,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+6.271466666666667,ITEM_PURCHASED,2677225,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+6.4497,ITEM_PURCHASED,2677225,JDG 369,Capítulo Perdido,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3802_mage_tier2_lostchapter.png
+6.493016666666667,ITEM_PURCHASED,2677225,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+6.5003,ITEM_PURCHASED,2677225,JDG Ruler,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+6.59365,ITEM_PURCHASED,2677225,JDG Ruler,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+6.608716666666667,ITEM_PURCHASED,2677225,JDG Kanavi,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+6.621016666666667,ITEM_PURCHASED,2677225,JDG Kanavi,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+6.6277333333333335,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.614966666666668,ITEM_PURCHASED,2677225,BLG XUN,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+9.0566,ITEM_PURCHASED,2677225,JDG Ruler,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+9.152083333333334,ITEM_PURCHASED,2677225,JDG Ruler,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+9.19995,ITEM_PURCHASED,2677225,BLG Yagao,Capítulo Perdido,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3802_mage_tier2_lostchapter.png
+9.228866666666667,ITEM_PURCHASED,2677225,BLG Yagao,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+9.240033333333333,ITEM_PURCHASED,2677225,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+9.3349,ITEM_PURCHASED,2677225,JDG knight,Lágrima da Deusa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3070_all_t1_tearofthegoddess.png
+9.347583333333333,ITEM_PURCHASED,2677225,JDG knight,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+9.3643,ITEM_PURCHASED,2677225,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.37095,ITEM_PURCHASED,2677225,JDG knight,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+9.4431,ITEM_PURCHASED,2677225,BLG Elk,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+9.481483333333333,ITEM_PURCHASED,2677225,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.769233333333334,ITEM_PURCHASED,2677225,JDG 369,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+9.7887,ITEM_PURCHASED,2677225,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.112366666666667,ITEM_PURCHASED,2677225,BLG Bin,Fulgor,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3057_fighter_t2_sheen.png
+10.124066666666666,ITEM_PURCHASED,2677225,BLG Bin,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+10.12685,ITEM_PURCHASED,2677225,BLG Bin,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+10.333633333333333,ITEM_PURCHASED,2677225,JDG MISSING,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+10.489216666666668,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+10.527566666666667,ITEM_PURCHASED,2677225,JDG Kanavi,Proteção Imutável,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3001_support_lunari.png
+10.5433,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.190766666666667,ITEM_PURCHASED,2677225,BLG Elk,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+11.209133333333334,ITEM_PURCHASED,2677225,BLG Elk,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+11.2341,ITEM_PURCHASED,2677225,BLG Elk,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+11.29685,ITEM_PURCHASED,2677225,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.3947,ITEM_PURCHASED,2677225,BLG ON,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+11.400766666666666,ITEM_PURCHASED,2677225,BLG ON,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+11.4264,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.42975,ITEM_PURCHASED,2677225,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+11.4303,ITEM_PURCHASED,2677225,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+11.439733333333333,ITEM_PURCHASED,2677225,JDG Ruler,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+11.45085,ITEM_PURCHASED,2677225,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.572033333333334,ITEM_PURCHASED,2677225,BLG Yagao,Códex Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3108_mage_t2_fiendishcodex.png
+11.618166666666667,ITEM_PURCHASED,2677225,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+11.622633333333333,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+11.6265,ITEM_PURCHASED,2677225,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+11.639266666666666,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+11.81115,ITEM_PURCHASED,2677225,JDG knight,Eclipse,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6692_assassin_t4_eclipse.png
+11.858383333333334,ITEM_PURCHASED,2677225,JDG 369,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+11.865083333333333,ITEM_PURCHASED,2677225,JDG 369,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+11.871716666666666,ITEM_PURCHASED,2677225,JDG MISSING,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+11.8784,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.881183333333333,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.892316666666666,ITEM_PURCHASED,2677225,BLG XUN,Abraço Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4637_mage_t3_demonicembrace.png
+11.924166666666666,ITEM_PURCHASED,2677225,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.939083333333333,ITEM_PURCHASED,2677225,JDG Kanavi,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+13.963516666666667,ITEM_PURCHASED,2677225,BLG XUN,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+13.974683333333333,ITEM_PURCHASED,2677225,JDG Kanavi,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+14.011766666666666,ITEM_PURCHASED,2677225,BLG Yagao,Angústia de Liandry,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6653_mage_t4_liandrysanguish.png
+14.014,ITEM_PURCHASED,2677225,JDG MISSING,Amuleto da Fada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1004_class_t1_faeriecharm.png
+14.07455,ITEM_PURCHASED,2677225,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+14.077866666666667,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+14.078966666666666,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.0823,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.086733333333333,ITEM_PURCHASED,2677225,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.26835,ITEM_PURCHASED,2677225,BLG ON,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+14.457,ITEM_PURCHASED,2677225,JDG Ruler,Força do Vendaval,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6671_marksman_t4_galeforce.png
+14.46645,ITEM_PURCHASED,2677225,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.47145,ITEM_PURCHASED,2677225,JDG Ruler,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+14.541916666666667,ITEM_PURCHASED,2677225,BLG Elk,Força do Vendaval,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6671_marksman_t4_galeforce.png
+14.55195,ITEM_PURCHASED,2677225,BLG Elk,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+14.5586,ITEM_PURCHASED,2677225,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.2897,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.355216666666667,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.35745,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.39865,ITEM_PURCHASED,2677225,JDG knight,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+15.422016666666666,ITEM_PURCHASED,2677225,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.8413,ITEM_PURCHASED,2677225,JDG 369,Glacieterno,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6656_mage_t4_everfrost.png
+15.877383333333333,ITEM_PURCHASED,2677225,JDG 369,Barreira Verdejante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4632_tank_t2_verdantbarrier.png
+15.906233333333333,ITEM_PURCHASED,2677225,JDG 369,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+15.925716666666666,ITEM_PURCHASED,2677225,JDG 369,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+15.990183333333333,ITEM_PURCHASED,2677225,BLG Bin,Ruptor Divino,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6632_fighter_t4_divinedevourer.png
+16.278483333333334,ITEM_PURCHASED,2677225,JDG Ruler,Zelo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3086_fighter_t2_zeal.png
+16.2958,ITEM_PURCHASED,2677225,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.904783333333334,ITEM_PURCHASED,2677225,BLG Yagao,Sapatos do Feiticeiro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3020_class_t2_sorcerersshoes.png
+16.915333333333333,ITEM_PURCHASED,2677225,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+17.223733333333332,ITEM_PURCHASED,2677225,JDG knight,Manamune,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3004_marksman_t3_manamune.png
+17.239233333333335,ITEM_PURCHASED,2677225,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.239766666666668,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.241966666666666,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.248683333333332,ITEM_PURCHASED,2677225,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.265883333333335,ITEM_PURCHASED,2677225,JDG MISSING,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+17.39765,ITEM_PURCHASED,2677225,JDG 369,Códex Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3108_mage_t2_fiendishcodex.png
+17.4182,ITEM_PURCHASED,2677225,JDG 369,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+17.94005,ITEM_PURCHASED,2677225,BLG Yagao,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+17.980016666666668,ITEM_PURCHASED,2677225,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.0151,ITEM_PURCHASED,2677225,BLG Elk,Espada G. p. C.,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1038_marksman_t1_bfsword.png
+18.024016666666668,ITEM_PURCHASED,2677225,BLG Elk,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+18.028483333333334,ITEM_PURCHASED,2677225,BLG Elk,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+18.425983333333335,ITEM_PURCHASED,2677225,BLG XUN,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+18.42875,ITEM_PURCHASED,2677225,JDG Ruler,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+18.44045,ITEM_PURCHASED,2677225,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.49045,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.8852,ITEM_PURCHASED,2677225,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+18.911816666666667,ITEM_PURCHASED,2677225,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+18.970766666666666,ITEM_PURCHASED,2677225,JDG Kanavi,Brasa de Bami,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6660_tank_t2_bamiscinder.png
+18.97415,ITEM_PURCHASED,2677225,JDG Kanavi,Cota de Malha,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1031_base_t2_chainvest.png
+18.983066666666666,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.19815,ITEM_PURCHASED,2677225,BLG Bin,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+19.243783333333333,ITEM_PURCHASED,2677225,BLG Bin,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+19.3005,ITEM_PURCHASED,2677225,BLG Bin,Fago,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3044_fighter_t2_phage.png
+19.3228,ITEM_PURCHASED,2677225,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.368933333333334,ITEM_PURCHASED,2677225,JDG 369,Véu da Banshee,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3102_mage_t3_bansheesveil.png
+19.387266666666665,ITEM_PURCHASED,2677225,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.3895,ITEM_PURCHASED,2677225,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.603133333333332,ITEM_PURCHASED,2677225,BLG ON,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+20.60975,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.61145,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.728116666666665,ITEM_PURCHASED,2677225,JDG Ruler,Espada G. p. C.,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1038_marksman_t1_bfsword.png
+20.749766666666666,ITEM_PURCHASED,2677225,JDG MISSING,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+20.759783333333335,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.762566666666668,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.850366666666666,ITEM_PURCHASED,2677225,BLG Elk,Cetro Vampírico,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png
+20.863766666666667,ITEM_PURCHASED,2677225,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.290166666666668,ITEM_PURCHASED,2677225,JDG knight,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+21.299583333333334,ITEM_PURCHASED,2677225,JDG knight,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+21.30625,ITEM_PURCHASED,2677225,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.406866666666666,ITEM_PURCHASED,2677225,JDG 369,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+21.493783333333333,ITEM_PURCHASED,2677225,JDG Kanavi,Égide de Fogo Solar,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3068_tank_t4_sunfireaegis.png
+21.49545,ITEM_PURCHASED,2677225,BLG Yagao,Alternador Hextec,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3145_mage_t2_hextechalternator.png
+21.526583333333335,ITEM_PURCHASED,2677225,BLG Yagao,Bastão Desnecessariamente Grande,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1058_mage_t1_largerod.png
+21.8195,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+22.265266666666665,ITEM_PURCHASED,2677225,BLG Bin,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+22.880383333333334,ITEM_PURCHASED,2677225,BLG Elk,Sedenta por Sangue,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3072_fighter_t3_bloodthirster.png
+22.894883333333333,ITEM_PURCHASED,2677225,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+22.925983333333335,ITEM_PURCHASED,2677225,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.132466666666666,ITEM_PURCHASED,2677225,JDG 369,Armaguarda da Caçadora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3191_battlemage_t2_seekersarmguard.png
+23.141883333333332,ITEM_PURCHASED,2677225,JDG 369,Cronômetro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2419_mage_t1_stopwatch.png
+23.179166666666667,ITEM_PURCHASED,2677225,JDG Ruler,Gume do Infinito,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3031_marksman_t3_infinityedge.png
+23.297966666666667,ITEM_PURCHASED,2677225,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+23.3041,ITEM_PURCHASED,2677225,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.694516666666665,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.696733333333334,ITEM_PURCHASED,2677225,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.7073,ITEM_PURCHASED,2677225,BLG ON,Amuleto da Fada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1004_class_t1_faeriecharm.png
+24.114166666666666,ITEM_PURCHASED,2677225,JDG knight,Lâmina Fantasma de Youmuu,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png
+24.142483333333335,ITEM_PURCHASED,2677225,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+24.289733333333334,ITEM_PURCHASED,2677225,BLG XUN,Virtude Radiante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6667_tank_t4_radiantvirtue.png
+24.300283333333333,ITEM_PURCHASED,2677225,BLG Yagao,Chama Sombria,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4645_shadowflame.png
+24.30525,ITEM_PURCHASED,2677225,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+24.317483333333332,ITEM_PURCHASED,2677225,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+24.839266666666667,ITEM_PURCHASED,2677225,JDG MISSING,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+24.888416666666668,ITEM_PURCHASED,2677225,JDG MISSING,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+24.939133333333334,ITEM_PURCHASED,2677225,JDG Kanavi,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+24.94575,ITEM_PURCHASED,2677225,JDG Kanavi,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+24.958516666666668,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+24.960733333333334,ITEM_PURCHASED,2677225,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+25.153983333333333,ITEM_PURCHASED,2677225,BLG Bin,Quebracascos,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3181_hullbreaker.png
+25.490433333333332,ITEM_PURCHASED,2677225,BLG Elk,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+25.714366666666667,ITEM_PURCHASED,2677225,BLG ON,Ídolo Proibido,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3114_mage_t2_forbiddenidol.png
+0.04006666666666667,ITEM_PURCHASED,2677229,BLG Bin,Anel de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1056_mage_t1_doransring.png
+0.04451666666666667,ITEM_PURCHASED,2677229,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.045616666666666666,ITEM_PURCHASED,2677229,BLG ON,Escudo Relicário,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3858_tank_t1_relicshield.png
+0.046733333333333335,ITEM_PURCHASED,2677229,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.04895,ITEM_PURCHASED,2677229,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.050616666666666664,ITEM_PURCHASED,2677229,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.052866666666666666,ITEM_PURCHASED,2677229,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0551,ITEM_PURCHASED,2677229,JDG 369,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.0551,ITEM_PURCHASED,2677229,JDG 369,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.055683333333333335,ITEM_PURCHASED,2677229,BLG ON,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.059566666666666664,ITEM_PURCHASED,2677229,JDG Kanavi,Cria de Andabrisas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1102_jungle_t1_gustwalkerhatchling.png
+0.06735,ITEM_PURCHASED,2677229,JDG Kanavi,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.06955,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.07066666666666667,ITEM_PURCHASED,2677229,JDG knight,Anel de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1056_mage_t1_doransring.png
+0.07066666666666667,ITEM_PURCHASED,2677229,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07066666666666667,ITEM_PURCHASED,2677229,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07625,ITEM_PURCHASED,2677229,BLG Yagao,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.08233333333333333,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.08516666666666667,ITEM_PURCHASED,2677229,BLG Yagao,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.10576666666666666,ITEM_PURCHASED,2677229,JDG MISSING,Gume do Ladrão Arcano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png
+0.10576666666666666,ITEM_PURCHASED,2677229,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.10576666666666666,ITEM_PURCHASED,2677229,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.1862,ITEM_PURCHASED,2677229,JDG MISSING,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+0.18675,ITEM_PURCHASED,2677229,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+0.1873,ITEM_PURCHASED,2677229,BLG XUN,Filhote de Garrabrasa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1101_jungle_t1_scorchclawpup.png
+0.1895,ITEM_PURCHASED,2677229,JDG Ruler,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.19173333333333334,ITEM_PURCHASED,2677229,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+0.19173333333333334,ITEM_PURCHASED,2677229,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.19173333333333334,ITEM_PURCHASED,2677229,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.19173333333333334,ITEM_PURCHASED,2677229,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.19455,ITEM_PURCHASED,2677229,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.19511666666666666,ITEM_PURCHASED,2677229,BLG XUN,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.19676666666666667,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.19845,ITEM_PURCHASED,2677229,BLG XUN,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.19845,ITEM_PURCHASED,2677229,BLG Elk,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+2.2321333333333335,ITEM_PURCHASED,2677229,BLG XUN,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+2.24495,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+2.2472,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+2.339383333333333,ITEM_PURCHASED,2677229,JDG 369,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+3.275933333333333,ITEM_PURCHASED,2677229,JDG MISSING,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+3.28595,ITEM_PURCHASED,2677229,JDG MISSING,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+3.29875,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+3.3649333333333336,ITEM_PURCHASED,2677229,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+3.5378166666666666,ITEM_PURCHASED,2677229,BLG XUN,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+3.6094666666666666,ITEM_PURCHASED,2677229,BLG Yagao,Lágrima da Deusa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3070_all_t1_tearofthegoddess.png
+3.6150333333333333,ITEM_PURCHASED,2677229,BLG Yagao,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+3.6178166666666667,ITEM_PURCHASED,2677229,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+3.621166666666667,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+3.6557333333333335,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+3.67075,ITEM_PURCHASED,2677229,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+3.6774333333333336,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+3.8312166666666667,ITEM_PURCHASED,2677229,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+3.8573666666666666,ITEM_PURCHASED,2677229,BLG ON,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+3.8635,ITEM_PURCHASED,2677229,BLG ON,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+3.90085,ITEM_PURCHASED,2677229,JDG knight,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+3.9530666666666665,ITEM_PURCHASED,2677229,JDG knight,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+3.9619833333333334,ITEM_PURCHASED,2677229,JDG knight,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+3.99815,ITEM_PURCHASED,2677229,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.7295,ITEM_PURCHASED,2677229,JDG Kanavi,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+4.736816666666667,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.740733333333333,ITEM_PURCHASED,2677229,JDG Kanavi,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.0881,ITEM_PURCHASED,2677229,BLG Bin,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+5.127,ITEM_PURCHASED,2677229,BLG Bin,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.127566666666667,ITEM_PURCHASED,2677229,BLG Elk,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+5.1359,ITEM_PURCHASED,2677229,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+5.14145,ITEM_PURCHASED,2677229,BLG Elk,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+5.14865,ITEM_PURCHASED,2677229,BLG Elk,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+5.15365,ITEM_PURCHASED,2677229,BLG Bin,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+5.155883333333334,ITEM_PURCHASED,2677229,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+5.432283333333333,ITEM_PURCHASED,2677229,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+5.45,ITEM_PURCHASED,2677229,JDG Ruler,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+5.45835,ITEM_PURCHASED,2677229,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+5.470516666666667,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.472733333333333,ITEM_PURCHASED,2677229,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+5.50545,ITEM_PURCHASED,2677229,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+6.420916666666667,ITEM_PURCHASED,2677229,BLG XUN,Cinto do Gigante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1011_class_t2_giantsbelt.png
+6.433766666666667,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+6.487783333333334,ITEM_PURCHASED,2677229,JDG Kanavi,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+6.492216666666667,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+6.657966666666667,ITEM_PURCHASED,2677229,JDG 369,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+6.675766666666667,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+6.972066666666667,ITEM_PURCHASED,2677229,BLG Yagao,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+7.496333333333333,ITEM_PURCHASED,2677229,JDG knight,Sapatos do Feiticeiro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3020_class_t2_sorcerersshoes.png
+7.550316666666666,ITEM_PURCHASED,2677229,JDG knight,Lacre Sombrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1082_mage_t1_darkseal.png
+8.011616666666667,ITEM_PURCHASED,2677229,BLG Elk,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+8.0383,ITEM_PURCHASED,2677229,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+8.123716666666667,ITEM_PURCHASED,2677229,BLG ON,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+8.129816666666667,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.132033333333334,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.326566666666666,ITEM_PURCHASED,2677229,JDG Ruler,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+8.330466666666666,ITEM_PURCHASED,2677229,JDG 369,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+8.3405,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.3884,ITEM_PURCHASED,2677229,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+8.84065,ITEM_PURCHASED,2677229,BLG XUN,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+8.856816666666667,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.0856,ITEM_PURCHASED,2677229,BLG Yagao,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+9.11555,ITEM_PURCHASED,2677229,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+9.118283333333334,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+9.122733333333333,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.207383333333333,ITEM_PURCHASED,2677229,JDG MISSING,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+9.211816666666667,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.50995,ITEM_PURCHASED,2677229,BLG Bin,Criafendas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4633_mage_t4_riftmaker.png
+10.558216666666667,ITEM_PURCHASED,2677229,BLG Bin,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+10.560966666666667,ITEM_PURCHASED,2677229,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.649883333333333,ITEM_PURCHASED,2677229,JDG Kanavi,Fulgor,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3057_fighter_t2_sheen.png
+10.654916666666667,ITEM_PURCHASED,2677229,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+10.656583333333334,ITEM_PURCHASED,2677229,JDG Kanavi,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+10.66655,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.6721,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.6743,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.9897,ITEM_PURCHASED,2677229,JDG 369,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+11.058816666666667,ITEM_PURCHASED,2677229,JDG MISSING,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+11.42275,ITEM_PURCHASED,2677229,BLG Yagao,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+11.4433,ITEM_PURCHASED,2677229,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+11.44665,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+11.4505,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.5628,ITEM_PURCHASED,2677229,BLG Elk,Força do Vendaval,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6671_marksman_t4_galeforce.png
+11.784783333333333,ITEM_PURCHASED,2677229,BLG Bin,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+11.792033333333332,ITEM_PURCHASED,2677229,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.904766666666667,ITEM_PURCHASED,2677229,JDG Ruler,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+11.909233333333333,ITEM_PURCHASED,2677229,JDG Ruler,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+11.950966666666666,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.9571,ITEM_PURCHASED,2677229,JDG knight,Capítulo Perdido,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3802_mage_tier2_lostchapter.png
+11.96265,ITEM_PURCHASED,2677229,JDG knight,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+12.500483333333333,ITEM_PURCHASED,2677229,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+12.524316666666667,ITEM_PURCHASED,2677229,BLG Yagao,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+12.534916666666666,ITEM_PURCHASED,2677229,JDG 369,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+12.5405,ITEM_PURCHASED,2677229,JDG Kanavi,Ruptor Divino,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6632_fighter_t4_divinedevourer.png
+12.564933333333334,ITEM_PURCHASED,2677229,JDG Kanavi,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+13.158916666666666,ITEM_PURCHASED,2677229,BLG XUN,Abraço Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4637_mage_t3_demonicembrace.png
+13.1756,ITEM_PURCHASED,2677229,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+13.203966666666666,ITEM_PURCHASED,2677229,BLG XUN,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+13.877116666666666,ITEM_PURCHASED,2677229,JDG Ruler,Força do Vendaval,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6671_marksman_t4_galeforce.png
+13.884316666666667,ITEM_PURCHASED,2677229,JDG MISSING,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+13.885433333333333,ITEM_PURCHASED,2677229,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+13.89095,ITEM_PURCHASED,2677229,JDG Ruler,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+13.897616666666666,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.9004,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.033083333333334,ITEM_PURCHASED,2677229,BLG Elk,Zelo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3086_fighter_t2_zeal.png
+14.0464,ITEM_PURCHASED,2677229,BLG Elk,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+14.0564,ITEM_PURCHASED,2677229,BLG Elk,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+14.060333333333332,ITEM_PURCHASED,2677229,BLG Elk,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+14.106433333333333,ITEM_PURCHASED,2677229,JDG 369,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+14.4185,ITEM_PURCHASED,2677229,JDG knight,Tormenta de Luden,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6655_mage_t4_ludenstempest.png
+14.571883333333334,ITEM_PURCHASED,2677229,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+14.607933333333333,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.6102,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.865566666666666,ITEM_PURCHASED,2677229,BLG ON,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+14.872266666666667,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.87505,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.214416666666667,ITEM_PURCHASED,2677229,BLG Yagao,Eclipse,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6692_assassin_t4_eclipse.png
+15.22275,ITEM_PURCHASED,2677229,BLG Yagao,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+15.245033333333334,ITEM_PURCHASED,2677229,BLG Yagao,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+15.262866666666667,ITEM_PURCHASED,2677229,BLG Yagao,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+15.607966666666666,ITEM_PURCHASED,2677229,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+15.617383333333333,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.902766666666666,ITEM_PURCHASED,2677229,JDG Kanavi,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+15.920483333333333,ITEM_PURCHASED,2677229,JDG Kanavi,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+16.00261666666667,ITEM_PURCHASED,2677229,JDG Kanavi,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+16.02275,ITEM_PURCHASED,2677229,JDG Kanavi,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+16.277533333333334,ITEM_PURCHASED,2677229,JDG MISSING,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+16.297033333333335,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.36265,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.433316666666666,ITEM_PURCHASED,2677229,JDG Ruler,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+16.462266666666668,ITEM_PURCHASED,2677229,JDG Ruler,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+16.466683333333332,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.492233333333335,ITEM_PURCHASED,2677229,JDG 369,Virtude Radiante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6667_tank_t4_radiantvirtue.png
+16.532216666666667,ITEM_PURCHASED,2677229,JDG 369,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+16.771583333333332,ITEM_PURCHASED,2677229,BLG Elk,Canhão Fumegante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3094_marksman_t3_rapidfirehandcannon.png
+16.774366666666666,ITEM_PURCHASED,2677229,BLG ON,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+16.7816,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.636883333333333,ITEM_PURCHASED,2677229,JDG knight,Códex Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3108_mage_t2_fiendishcodex.png
+17.689666666666668,ITEM_PURCHASED,2677229,BLG Bin,Dente de Na'Shor,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3115_mage_t3_nashorstooth.png
+17.865816666666667,ITEM_PURCHASED,2677229,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.873566666666665,ITEM_PURCHASED,2677229,BLG Bin,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+18.650733333333335,ITEM_PURCHASED,2677229,JDG 369,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+18.885083333333334,ITEM_PURCHASED,2677229,BLG Yagao,Manamune,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3004_marksman_t3_manamune.png
+19.30185,ITEM_PURCHASED,2677229,BLG Bin,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+19.307366666666667,ITEM_PURCHASED,2677229,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.449683333333333,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.352533333333334,ITEM_PURCHASED,2677229,JDG MISSING,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+20.374816666666668,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.468216666666667,ITEM_PURCHASED,2677229,JDG Kanavi,Cutelo Negro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3071_fighter_t3_blackcleaver.png
+20.475433333333335,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.5606,ITEM_PURCHASED,2677229,JDG Ruler,Adagas Rápidas Navori,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png
+20.794833333333333,ITEM_PURCHASED,2677229,BLG Elk,Espada G. p. C.,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1038_marksman_t1_bfsword.png
+20.8082,ITEM_PURCHASED,2677229,BLG Elk,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+20.9773,ITEM_PURCHASED,2677229,BLG XUN,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+21.021583333333332,ITEM_PURCHASED,2677229,BLG XUN,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+21.038283333333332,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.1039,ITEM_PURCHASED,2677229,BLG ON,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+21.234516666666668,ITEM_PURCHASED,2677229,BLG Bin,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+21.359716666666667,ITEM_PURCHASED,2677229,BLG Bin,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+21.373083333333334,ITEM_PURCHASED,2677229,BLG Bin,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+21.3986,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.3986,ITEM_PURCHASED,2677229,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+21.401416666666666,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.417566666666666,ITEM_PURCHASED,2677229,JDG MISSING,Amuleto da Fada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1004_class_t1_faeriecharm.png
+21.655483333333333,ITEM_PURCHASED,2677229,JDG 369,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+21.668316666666666,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.671633333333332,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.885866666666665,ITEM_PURCHASED,2677229,BLG Yagao,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+21.96475,ITEM_PURCHASED,2677229,JDG Kanavi,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+21.97415,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.976383333333334,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+22.081616666666665,ITEM_PURCHASED,2677229,JDG knight,Ampulheta de Zhonya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3157_mage_t3_zhonyashourglass.png
+22.122733333333333,ITEM_PURCHASED,2677229,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.5229,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.652566666666665,ITEM_PURCHASED,2677229,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.78226666666667,ITEM_PURCHASED,2677229,JDG Ruler,Zelo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3086_fighter_t2_zeal.png
+23.790616666666665,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.792833333333334,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.794483333333332,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.7967,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.822166666666668,ITEM_PURCHASED,2677229,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+23.849933333333333,ITEM_PURCHASED,2677229,BLG Elk,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+23.864966666666668,ITEM_PURCHASED,2677229,BLG Elk,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+23.963033333333332,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+23.972466666666666,ITEM_PURCHASED,2677229,BLG Bin,Bastão Desnecessariamente Grande,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1058_mage_t1_largerod.png
+24.094616666666667,ITEM_PURCHASED,2677229,JDG 369,Placa Gargolítica,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3193_tank_t3_gargoylestoneplate.png
+24.12295,ITEM_PURCHASED,2677229,JDG 369,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+24.341583333333332,ITEM_PURCHASED,2677229,JDG Kanavi,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+24.347133333333332,ITEM_PURCHASED,2677229,JDG Kanavi,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+25.60845,ITEM_PURCHASED,2677229,BLG Bin,Chama Sombria,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4645_shadowflame.png
+25.654783333333334,ITEM_PURCHASED,2677229,BLG Bin,Bastão Desnecessariamente Grande,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1058_mage_t1_largerod.png
+25.9571,ITEM_PURCHASED,2677229,BLG XUN,Virtude Radiante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6667_tank_t4_radiantvirtue.png
+26.01535,ITEM_PURCHASED,2677229,BLG Elk,Gume do Infinito,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3031_marksman_t3_infinityedge.png
+26.018666666666668,ITEM_PURCHASED,2677229,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+26.024266666666666,ITEM_PURCHASED,2677229,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.055883333333334,ITEM_PURCHASED,2677229,JDG Ruler,Canhão Fumegante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3094_marksman_t3_rapidfirehandcannon.png
+26.06815,ITEM_PURCHASED,2677229,BLG Yagao,Presa da Serpente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6695_assassin_t3_serpentsfang.png
+26.098683333333334,ITEM_PURCHASED,2677229,BLG Yagao,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+26.102566666666668,ITEM_PURCHASED,2677229,BLG Bin,Chama Sombria,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4645_shadowflame.png
+26.1171,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.18065,ITEM_PURCHASED,2677229,JDG Ruler,Cetro Vampírico,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png
+26.216183333333333,ITEM_PURCHASED,2677229,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.225633333333334,ITEM_PURCHASED,2677229,BLG ON,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+26.24515,ITEM_PURCHASED,2677229,BLG Bin,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+26.2457,ITEM_PURCHASED,2677229,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+26.26515,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.267933333333332,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.288016666666667,ITEM_PURCHASED,2677229,JDG 369,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+26.294133333333335,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.294133333333335,ITEM_PURCHASED,2677229,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.344116666666668,ITEM_PURCHASED,2677229,JDG knight,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+26.365783333333333,ITEM_PURCHASED,2677229,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+26.382466666666666,ITEM_PURCHASED,2677229,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.386916666666668,ITEM_PURCHASED,2677229,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.626716666666667,ITEM_PURCHASED,2677229,JDG Kanavi,Hexdrinker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3155_fighter_t2_hexdrinker.png
+26.639016666666667,ITEM_PURCHASED,2677229,JDG Kanavi,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+26.643483333333332,ITEM_PURCHASED,2677229,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.744516666666666,ITEM_PURCHASED,2677229,JDG MISSING,Capa Negatron,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1057_tank_t2_negatroncloak.png
+26.7601,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+26.762866666666667,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+27.8735,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+27.876283333333333,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+28.243233333333333,ITEM_PURCHASED,2677229,JDG 369,Colete Espinhoso,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3076_tank_t2_bramblevest.png
+28.656116666666666,ITEM_PURCHASED,2677229,JDG Ruler,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+28.908083333333334,ITEM_PURCHASED,2677229,BLG Elk,Último Sussurro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3035_marksman_t2_lastwhisper.png
+28.917266666666666,ITEM_PURCHASED,2677229,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.175433333333334,ITEM_PURCHASED,2677229,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.268866666666668,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.271133333333335,ITEM_PURCHASED,2677229,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.317433333333334,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.31965,ITEM_PURCHASED,2677229,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.533283333333333,ITEM_PURCHASED,2677229,BLG ON,Correntes de Anátema,https://raw.communitydragon.org/latest/game/assets/items/icons2d/8001_tank_t3_anathemaschains.png
+29.54445,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.546666666666667,ITEM_PURCHASED,2677229,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.595533333333332,ITEM_PURCHASED,2677229,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.67455,ITEM_PURCHASED,2677229,BLG Yagao,Último Sussurro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3035_marksman_t2_lastwhisper.png
+29.69735,ITEM_PURCHASED,2677229,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+29.750716666666666,ITEM_PURCHASED,2677229,JDG Kanavi,Mandíbula de Malmortius,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3156_fighter_t3_mawofmalmortius.png
+29.83305,ITEM_PURCHASED,2677229,BLG XUN,Alternador Hextec,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3145_mage_t2_hextechalternator.png
+29.846966666666667,ITEM_PURCHASED,2677229,BLG XUN,Bastão Desnecessariamente Grande,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1058_mage_t1_largerod.png
+29.92085,ITEM_PURCHASED,2677229,JDG Ruler,Espada G. p. C.,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1038_marksman_t1_bfsword.png
+30.385266666666666,ITEM_PURCHASED,2677229,BLG Bin,Ampulheta de Zhonya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3157_mage_t3_zhonyashourglass.png
+30.396983333333335,ITEM_PURCHASED,2677229,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+30.763166666666667,ITEM_PURCHASED,2677229,JDG knight,Cetro de Cristal de Rylai,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3116_mage_t3_rylajscrystalscepter.png
+30.946716666666667,ITEM_PURCHASED,2677229,JDG 369,Carapaça do Vigia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3082_tank_t2_wardensmail.png
+30.98285,ITEM_PURCHASED,2677229,BLG Yagao,Rancor de Serylda,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6694_assasin_t3_seryldasgrudge.png
+30.991183333333332,ITEM_PURCHASED,2677229,JDG 369,Cinto do Gigante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1011_class_t2_giantsbelt.png
+0.041933333333333336,ITEM_PURCHASED,2677230,JDG Ruler,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.0475,ITEM_PURCHASED,2677230,BLG ON,Gume do Ladrão Arcano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3850_mage_t1_spellthiefsedge.png
+0.049716666666666666,ITEM_PURCHASED,2677230,JDG knight,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.05028333333333333,ITEM_PURCHASED,2677230,BLG Elk,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.05028333333333333,ITEM_PURCHASED,2677230,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05305,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.05525,ITEM_PURCHASED,2677230,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0569,ITEM_PURCHASED,2677230,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05745,ITEM_PURCHASED,2677230,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05971666666666667,ITEM_PURCHASED,2677230,BLG Elk,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.060833333333333336,ITEM_PURCHASED,2677230,BLG ON,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.06136666666666667,ITEM_PURCHASED,2677230,BLG Yagao,Anel de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1056_mage_t1_doransring.png
+0.06136666666666667,ITEM_PURCHASED,2677230,BLG Yagao,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.06136666666666667,ITEM_PURCHASED,2677230,BLG Yagao,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0625,ITEM_PURCHASED,2677230,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0636,ITEM_PURCHASED,2677230,JDG MISSING,Escudo Relicário,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3858_tank_t1_relicshield.png
+0.0636,ITEM_PURCHASED,2677230,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0636,ITEM_PURCHASED,2677230,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.06525,ITEM_PURCHASED,2677230,JDG 369,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.06638333333333334,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.06696666666666666,ITEM_PURCHASED,2677230,BLG Bin,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.06751666666666667,ITEM_PURCHASED,2677230,JDG knight,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.0692,ITEM_PURCHASED,2677230,JDG Kanavi,Broto de Esmagamusgo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1103_jungle_t1_mosstomperseedling.png
+0.07143333333333333,ITEM_PURCHASED,2677230,JDG 369,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07591666666666666,ITEM_PURCHASED,2677230,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07703333333333333,ITEM_PURCHASED,2677230,JDG Kanavi,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07813333333333333,ITEM_PURCHASED,2677230,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.07925,ITEM_PURCHASED,2677230,JDG 369,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.0798,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.11155,ITEM_PURCHASED,2677230,JDG MISSING,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+0.11713333333333334,ITEM_PURCHASED,2677230,BLG XUN,Cria de Andabrisas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1102_jungle_t1_gustwalkerhatchling.png
+0.12263333333333333,ITEM_PURCHASED,2677230,BLG XUN,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.12596666666666667,ITEM_PURCHASED,2677230,BLG XUN,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.17805,ITEM_PURCHASED,2677230,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+0.20531666666666668,ITEM_PURCHASED,2677230,BLG XUN,Cria de Andabrisas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1102_jungle_t1_gustwalkerhatchling.png
+0.21138333333333334,ITEM_PURCHASED,2677230,BLG XUN,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.21418333333333334,ITEM_PURCHASED,2677230,BLG XUN,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+2.61325,ITEM_PURCHASED,2677230,JDG Kanavi,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+3.7170833333333335,ITEM_PURCHASED,2677230,JDG MISSING,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+3.7226166666666667,ITEM_PURCHASED,2677230,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+3.8096833333333335,ITEM_PURCHASED,2677230,JDG 369,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+3.9488333333333334,ITEM_PURCHASED,2677230,JDG knight,Lágrima da Deusa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3070_all_t1_tearofthegoddess.png
+3.9732,ITEM_PURCHASED,2677230,JDG knight,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+3.999816666666667,ITEM_PURCHASED,2677230,BLG XUN,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.00205,ITEM_PURCHASED,2677230,BLG XUN,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.003166666666667,ITEM_PURCHASED,2677230,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.00985,ITEM_PURCHASED,2677230,JDG knight,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+4.0143,ITEM_PURCHASED,2677230,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.01875,ITEM_PURCHASED,2677230,BLG XUN,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+4.05105,ITEM_PURCHASED,2677230,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.091083333333334,ITEM_PURCHASED,2677230,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.102783333333333,ITEM_PURCHASED,2677230,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+4.14175,ITEM_PURCHASED,2677230,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+4.1585,ITEM_PURCHASED,2677230,BLG Yagao,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+4.189116666666667,ITEM_PURCHASED,2677230,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+4.19245,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+4.20245,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.271966666666667,ITEM_PURCHASED,2677230,BLG ON,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+4.277516666666667,ITEM_PURCHASED,2677230,BLG ON,Amuleto da Fada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1004_class_t1_faeriecharm.png
+4.301383333333333,ITEM_PURCHASED,2677230,BLG ON,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+4.305266666666666,ITEM_PURCHASED,2677230,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+4.3147,ITEM_PURCHASED,2677230,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.316333333333334,ITEM_PURCHASED,2677230,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+4.320266666666667,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.323616666666667,ITEM_PURCHASED,2677230,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+4.36085,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.380883333333333,ITEM_PURCHASED,2677230,BLG ON,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+6.38395,ITEM_PURCHASED,2677230,JDG 369,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+6.398983333333334,ITEM_PURCHASED,2677230,JDG 369,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+6.404533333333333,ITEM_PURCHASED,2677230,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+6.555266666666666,ITEM_PURCHASED,2677230,BLG Elk,Cetro Vampírico,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png
+6.61435,ITEM_PURCHASED,2677230,BLG Bin,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+6.618816666666667,ITEM_PURCHASED,2677230,BLG Bin,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+6.653816666666667,ITEM_PURCHASED,2677230,BLG Bin,Alternador Hextec,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3145_mage_t2_hextechalternator.png
+6.657133333333333,ITEM_PURCHASED,2677230,BLG Bin,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+6.67985,ITEM_PURCHASED,2677230,BLG Elk,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+6.702066666666667,ITEM_PURCHASED,2677230,BLG Bin,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+6.71765,ITEM_PURCHASED,2677230,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+6.722616666666666,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+6.724283333333333,ITEM_PURCHASED,2677230,BLG Elk,Cetro Vampírico,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png
+6.726516666666667,ITEM_PURCHASED,2677230,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+6.726516666666667,ITEM_PURCHASED,2677230,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+6.743766666666667,ITEM_PURCHASED,2677230,BLG Elk,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+6.9421,ITEM_PURCHASED,2677230,JDG Ruler,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+6.949316666666666,ITEM_PURCHASED,2677230,JDG Ruler,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+7.098316666666666,ITEM_PURCHASED,2677230,JDG MISSING,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+7.109983333333333,ITEM_PURCHASED,2677230,JDG MISSING,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+7.113883333333333,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+7.437116666666666,ITEM_PURCHASED,2677230,BLG XUN,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+7.450433333333334,ITEM_PURCHASED,2677230,BLG XUN,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+7.46315,ITEM_PURCHASED,2677230,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+7.46535,ITEM_PURCHASED,2677230,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+7.544833333333333,ITEM_PURCHASED,2677230,BLG Yagao,Capítulo Perdido,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3802_mage_tier2_lostchapter.png
+7.5587,ITEM_PURCHASED,2677230,BLG Yagao,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+7.56315,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+7.566483333333333,ITEM_PURCHASED,2677230,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+7.569833333333333,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+7.5964833333333335,ITEM_PURCHASED,2677230,JDG Kanavi,Brasa de Bami,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6660_tank_t2_bamiscinder.png
+7.61875,ITEM_PURCHASED,2677230,JDG Kanavi,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+7.6221,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+7.641633333333333,ITEM_PURCHASED,2677230,JDG Kanavi,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+7.765033333333333,ITEM_PURCHASED,2677230,JDG knight,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+7.776683333333334,ITEM_PURCHASED,2677230,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+9.051033333333333,ITEM_PURCHASED,2677230,BLG ON,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+9.0566,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.197583333333334,ITEM_PURCHASED,2677230,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+9.209816666666667,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.2126,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.234816666666667,ITEM_PURCHASED,2677230,BLG Elk,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+9.449333333333334,ITEM_PURCHASED,2677230,BLG Yagao,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+9.513883333333334,ITEM_PURCHASED,2677230,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+9.516683333333333,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+9.5317,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.567716666666668,ITEM_PURCHASED,2677230,JDG Ruler,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+9.578866666666666,ITEM_PURCHASED,2677230,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+9.582216666666667,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.633633333333334,ITEM_PURCHASED,2677230,JDG 369,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+9.70425,ITEM_PURCHASED,2677230,JDG 369,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+9.745916666666666,ITEM_PURCHASED,2677230,JDG knight,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+9.777566666666667,ITEM_PURCHASED,2677230,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.091033333333334,ITEM_PURCHASED,2677230,BLG XUN,Glaive Sombria,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3179_assassin_t3_umbralglaive.png
+10.1928,ITEM_PURCHASED,2677230,BLG Bin,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+10.213316666666667,ITEM_PURCHASED,2677230,BLG Bin,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+10.218883333333334,ITEM_PURCHASED,2677230,BLG Bin,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+10.22055,ITEM_PURCHASED,2677230,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+10.6128,ITEM_PURCHASED,2677230,JDG 369,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+10.708283333333334,ITEM_PURCHASED,2677230,JDG Ruler,Cetro Vampírico,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1053_fighter_t2_vampiricscepter.png
+10.71775,ITEM_PURCHASED,2677230,JDG Kanavi,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+10.7272,ITEM_PURCHASED,2677230,JDG Kanavi,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+10.761083333333334,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.09905,ITEM_PURCHASED,2677230,BLG Bin,Explocinturão Hextec,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3152_mage_t4_hextechrocketbelt.png
+11.628083333333333,ITEM_PURCHASED,2677230,BLG ON,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+11.6548,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.322866666666666,ITEM_PURCHASED,2677230,JDG knight,Eclipse,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6692_assassin_t4_eclipse.png
+12.341733333333334,ITEM_PURCHASED,2677230,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+12.40845,ITEM_PURCHASED,2677230,JDG Ruler,Arco-escudo Imortal,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6673_marksman_t4_crimsonshieldbow.png
+12.4129,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.4129,ITEM_PURCHASED,2677230,JDG MISSING,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+12.431183333333333,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.43395,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.849983333333334,ITEM_PURCHASED,2677230,BLG XUN,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+12.89175,ITEM_PURCHASED,2677230,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.0475,ITEM_PURCHASED,2677230,BLG Bin,Sapatos do Feiticeiro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3020_class_t2_sorcerersshoes.png
+13.1116,ITEM_PURCHASED,2677230,BLG ON,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+13.121583333333334,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.328466666666667,ITEM_PURCHASED,2677230,BLG Yagao,Coroa da Rainha Despedaçada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4644_crown.png
+13.488116666666667,ITEM_PURCHASED,2677230,BLG Yagao,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+13.606266666666667,ITEM_PURCHASED,2677230,JDG 369,Virtude Radiante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6667_tank_t4_radiantvirtue.png
+14.077533333333333,ITEM_PURCHASED,2677230,BLG Elk,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+14.089166666666667,ITEM_PURCHASED,2677230,BLG Elk,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+14.108033333333333,ITEM_PURCHASED,2677230,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.113033333333334,ITEM_PURCHASED,2677230,BLG Elk,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+14.1158,ITEM_PURCHASED,2677230,BLG Elk,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+14.311416666666666,ITEM_PURCHASED,2677230,JDG MISSING,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+14.32925,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.36195,ITEM_PURCHASED,2677230,JDG Kanavi,Égide de Fogo Solar,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3068_tank_t4_sunfireaegis.png
+14.373616666666667,ITEM_PURCHASED,2677230,JDG knight,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+14.390816666666666,ITEM_PURCHASED,2677230,JDG knight,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+14.4119,ITEM_PURCHASED,2677230,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.453683333333334,ITEM_PURCHASED,2677230,JDG Ruler,Zelo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3086_fighter_t2_zeal.png
+14.478083333333334,ITEM_PURCHASED,2677230,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+14.4864,ITEM_PURCHASED,2677230,JDG Ruler,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+14.490266666666667,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.307666666666666,ITEM_PURCHASED,2677230,BLG Elk,Arco-escudo Imortal,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6673_marksman_t4_crimsonshieldbow.png
+15.700883333333334,ITEM_PURCHASED,2677230,BLG XUN,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+15.715916666666667,ITEM_PURCHASED,2677230,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+15.807233333333333,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.80945,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.843883333333334,ITEM_PURCHASED,2677230,JDG Ruler,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+15.84555,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.847766666666667,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.854433333333333,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.939483333333333,ITEM_PURCHASED,2677230,BLG Yagao,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+15.965616666666667,ITEM_PURCHASED,2677230,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.54245,ITEM_PURCHASED,2677230,BLG Bin,Joia da Ruína,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4630_mage_t2_voidcrystal.png
+16.710883333333335,ITEM_PURCHASED,2677230,JDG Kanavi,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+16.71925,ITEM_PURCHASED,2677230,JDG Kanavi,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+16.727016666666668,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.728666666666665,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.865016666666666,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.884016666666668,ITEM_PURCHASED,2677230,JDG 369,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+16.936283333333332,ITEM_PURCHASED,2677230,JDG 369,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+16.96078333333333,ITEM_PURCHASED,2677230,JDG 369,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+17.270933333333332,ITEM_PURCHASED,2677230,JDG knight,Manamune,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3004_marksman_t3_manamune.png
+17.27985,ITEM_PURCHASED,2677230,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.764533333333333,ITEM_PURCHASED,2677230,JDG MISSING,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+17.922833333333333,ITEM_PURCHASED,2677230,BLG Bin,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+18.019366666666667,ITEM_PURCHASED,2677230,BLG ON,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+18.03098333333333,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.046483333333335,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.50335,ITEM_PURCHASED,2677230,BLG Yagao,Cinto do Gigante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1011_class_t2_giantsbelt.png
+18.656883333333333,ITEM_PURCHASED,2677230,JDG knight,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+18.688633333333332,ITEM_PURCHASED,2677230,BLG XUN,Limiar da Noite,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3814_assassin_t3_edgeofnight.png
+18.701416666666667,ITEM_PURCHASED,2677230,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.704233333333335,ITEM_PURCHASED,2677230,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.724266666666665,ITEM_PURCHASED,2677230,JDG Kanavi,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+18.7481,ITEM_PURCHASED,2677230,BLG Elk,Faca da Fúria,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6677_marksman_t2_rageknife.png
+18.753666666666668,ITEM_PURCHASED,2677230,BLG Elk,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+18.774316666666667,ITEM_PURCHASED,2677230,JDG Kanavi,Proteção Imutável,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3001_support_lunari.png
+19.70916666666667,ITEM_PURCHASED,2677230,BLG Bin,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+19.790916666666668,ITEM_PURCHASED,2677230,BLG Elk,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+19.836966666666665,ITEM_PURCHASED,2677230,JDG 369,Carapaça do Vigia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3082_tank_t2_wardensmail.png
+19.868783333333333,ITEM_PURCHASED,2677230,JDG 369,Cinto do Gigante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1011_class_t2_giantsbelt.png
+19.907133333333334,ITEM_PURCHASED,2677230,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.909383333333334,ITEM_PURCHASED,2677230,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.9405,ITEM_PURCHASED,2677230,JDG knight,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+19.963266666666666,ITEM_PURCHASED,2677230,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.96775,ITEM_PURCHASED,2677230,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.02345,ITEM_PURCHASED,2677230,JDG MISSING,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+20.029566666666668,ITEM_PURCHASED,2677230,BLG ON,Amuleto da Fada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1004_class_t1_faeriecharm.png
+20.128083333333333,ITEM_PURCHASED,2677230,JDG Ruler,Adagas Rápidas Navori,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png
+20.138616666666667,ITEM_PURCHASED,2677230,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.254916666666666,ITEM_PURCHASED,2677230,JDG Kanavi,Colete Espinhoso,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3076_tank_t2_bramblevest.png
+20.276683333333335,ITEM_PURCHASED,2677230,JDG Kanavi,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+20.307266666666667,ITEM_PURCHASED,2677230,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.568266666666666,ITEM_PURCHASED,2677230,BLG Yagao,Cetro de Cristal de Rylai,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3116_mage_t3_rylajscrystalscepter.png
+21.174883333333334,ITEM_PURCHASED,2677230,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.43455,ITEM_PURCHASED,2677230,JDG Kanavi,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+21.44955,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.451766666666668,ITEM_PURCHASED,2677230,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.4629,ITEM_PURCHASED,2677230,JDG Ruler,Cronômetro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2419_mage_t1_stopwatch.png
+21.471716666666666,ITEM_PURCHASED,2677230,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+21.4801,ITEM_PURCHASED,2677230,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.488983333333334,ITEM_PURCHASED,2677230,BLG Elk,Lâmina da Fúria de Guinsoo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3124_marksman_t3_guinsoosrageblade.png
+21.504,ITEM_PURCHASED,2677230,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.620716666666667,ITEM_PURCHASED,2677230,JDG knight,Lâmina Fantasma de Youmuu,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3142_assassin_t3_youmuusghostblade.png
+21.715233333333334,ITEM_PURCHASED,2677230,BLG Bin,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+21.72525,ITEM_PURCHASED,2677230,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+21.80153333333333,ITEM_PURCHASED,2677230,BLG Bin,Cajado do Vazio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3135_mage_t3_voidstaff.png
+22.054066666666667,ITEM_PURCHASED,2677230,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+22.80195,ITEM_PURCHASED,2677230,BLG XUN,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+23.392666666666667,ITEM_PURCHASED,2677230,JDG 369,Presságio de Randuin,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3143_tank_t3_randuinsomen.png
+23.406566666666667,ITEM_PURCHASED,2677230,JDG 369,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+23.4361,ITEM_PURCHASED,2677230,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+23.776566666666668,ITEM_PURCHASED,2677230,BLG ON,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+0.025433333333333332,ITEM_PURCHASED,2677232,BLG Bin,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.0321,ITEM_PURCHASED,2677232,BLG Bin,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.0321,ITEM_PURCHASED,2677232,BLG ON,Escudo Relicário,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3858_tank_t1_relicshield.png
+0.03431666666666667,ITEM_PURCHASED,2677232,JDG MISSING,Guarda-ombros de Aço,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3854_tank_t1_petriciteshoulderguard.png
+0.03431666666666667,ITEM_PURCHASED,2677232,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.03431666666666667,ITEM_PURCHASED,2677232,JDG MISSING,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.034883333333333336,ITEM_PURCHASED,2677232,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.0371,ITEM_PURCHASED,2677232,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.03933333333333333,ITEM_PURCHASED,2677232,BLG ON,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.04211666666666666,ITEM_PURCHASED,2677232,BLG ON,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+0.04883333333333333,ITEM_PURCHASED,2677232,JDG Kanavi,Filhote de Garrabrasa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1101_jungle_t1_scorchclawpup.png
+0.05273333333333333,ITEM_PURCHASED,2677232,BLG Elk,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.05438333333333333,ITEM_PURCHASED,2677232,JDG Kanavi,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05438333333333333,ITEM_PURCHASED,2677232,JDG 369,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.05665,ITEM_PURCHASED,2677232,JDG Kanavi,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.0583,ITEM_PURCHASED,2677232,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.05885,ITEM_PURCHASED,2677232,JDG Ruler,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+0.05998333333333333,ITEM_PURCHASED,2677232,BLG Yagao,Escudo de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1054_tank_t1_doransshield.png
+0.06108333333333334,ITEM_PURCHASED,2677232,BLG Elk,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.06276666666666667,ITEM_PURCHASED,2677232,JDG 369,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.06331666666666666,ITEM_PURCHASED,2677232,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.06555,ITEM_PURCHASED,2677232,JDG 369,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.06555,ITEM_PURCHASED,2677232,JDG Ruler,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.06665,ITEM_PURCHASED,2677232,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.06886666666666667,ITEM_PURCHASED,2677232,BLG Yagao,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.07948333333333334,ITEM_PURCHASED,2677232,BLG XUN,Broto de Esmagamusgo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1103_jungle_t1_mosstomperseedling.png
+0.08506666666666667,ITEM_PURCHASED,2677232,BLG XUN,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.08785,ITEM_PURCHASED,2677232,BLG XUN,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.18001666666666666,ITEM_PURCHASED,2677232,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+0.18001666666666666,ITEM_PURCHASED,2677232,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.18001666666666666,ITEM_PURCHASED,2677232,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.18001666666666666,ITEM_PURCHASED,2677232,JDG knight,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+0.23001666666666667,ITEM_PURCHASED,2677232,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+0.23995,ITEM_PURCHASED,2677232,JDG knight,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+0.24163333333333334,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.24608333333333332,ITEM_PURCHASED,2677232,JDG knight,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+0.9800666666666666,ITEM_PURCHASED,2677232,JDG MISSING,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+3.5585833333333334,ITEM_PURCHASED,2677232,BLG Yagao,Anel de Doran,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1056_mage_t1_doransring.png
+3.56525,ITEM_PURCHASED,2677232,BLG Yagao,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+3.9639333333333333,ITEM_PURCHASED,2677232,JDG knight,Lágrima da Deusa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3070_all_t1_tearofthegoddess.png
+3.9800333333333335,ITEM_PURCHASED,2677232,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.074066666666667,ITEM_PURCHASED,2677232,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+4.077933333333333,ITEM_PURCHASED,2677232,BLG Yagao,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+4.0913,ITEM_PURCHASED,2677232,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+4.9965,ITEM_PURCHASED,2677232,BLG Elk,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+5.014766666666667,ITEM_PURCHASED,2677232,BLG Elk,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+5.02085,ITEM_PURCHASED,2677232,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.031383333333333,ITEM_PURCHASED,2677232,BLG ON,Manto Anula-Magia,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1033_base_t1_magicmantle.png
+5.037483333333333,ITEM_PURCHASED,2677232,BLG ON,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+5.072016666666666,ITEM_PURCHASED,2677232,BLG ON,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+5.07865,ITEM_PURCHASED,2677232,BLG ON,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+5.083066666666666,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.3131,ITEM_PURCHASED,2677232,JDG Ruler,Aljava Vespertina,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6670_marksman_t2_noonquiver.png
+5.326433333333333,ITEM_PURCHASED,2677232,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+5.3548,ITEM_PURCHASED,2677232,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+5.366016666666667,ITEM_PURCHASED,2677232,JDG MISSING,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+5.369366666666667,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.417833333333333,ITEM_PURCHASED,2677232,JDG 369,Couraça de Pano,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1029_base_t1_clotharmor.png
+5.4245,ITEM_PURCHASED,2677232,JDG 369,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+5.435616666666666,ITEM_PURCHASED,2677232,JDG 369,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+5.438933333333333,ITEM_PURCHASED,2677232,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+5.441683333333334,ITEM_PURCHASED,2677232,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.51685,ITEM_PURCHASED,2677232,BLG Bin,Abatedora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1083_marksman_t1_cull.png
+5.5357666666666665,ITEM_PURCHASED,2677232,BLG Bin,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+5.55635,ITEM_PURCHASED,2677232,BLG XUN,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+5.56805,ITEM_PURCHASED,2677232,BLG XUN,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.5836,ITEM_PURCHASED,2677232,BLG Bin,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+5.594666666666667,ITEM_PURCHASED,2677232,BLG Bin,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.601366666666666,ITEM_PURCHASED,2677232,BLG Bin,Poção com Refil,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2031_class_t1_refillablepotion.png
+5.604116666666667,ITEM_PURCHASED,2677232,BLG Bin,Sentinela Invisível,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3340_class_t1_wardingtotem.png
+5.8592,ITEM_PURCHASED,2677232,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+5.909133333333333,ITEM_PURCHASED,2677232,BLG Yagao,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+5.93915,ITEM_PURCHASED,2677232,JDG Kanavi,Cinto do Gigante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1011_class_t2_giantsbelt.png
+5.960816666666667,ITEM_PURCHASED,2677232,JDG Kanavi,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+5.9703,ITEM_PURCHASED,2677232,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+5.974183333333333,ITEM_PURCHASED,2677232,JDG Kanavi,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+6.009933333333334,ITEM_PURCHASED,2677232,JDG knight,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+6.0254666666666665,ITEM_PURCHASED,2677232,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.185916666666667,ITEM_PURCHASED,2677232,BLG ON,Botas,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1001_class_t1_bootsofspeed.png
+8.19035,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.394683333333333,ITEM_PURCHASED,2677232,BLG Yagao,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+8.4008,ITEM_PURCHASED,2677232,BLG Yagao,Cristal de Safira,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1027_base_t1_saphirecrystal.png
+8.465283333333334,ITEM_PURCHASED,2677232,JDG Ruler,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+8.545433333333333,ITEM_PURCHASED,2677232,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.605433333333334,ITEM_PURCHASED,2677232,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+8.60765,ITEM_PURCHASED,2677232,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+8.627133333333333,ITEM_PURCHASED,2677232,BLG Elk,Adaga,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1042_base_t1_dagger.png
+8.6299,ITEM_PURCHASED,2677232,JDG MISSING,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+8.63375,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+8.729366666666667,ITEM_PURCHASED,2677232,BLG Bin,Machado Termestre,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3051_fighter_t2_axeofavarosa.png
+8.819333333333333,ITEM_PURCHASED,2677232,BLG Bin,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+8.84935,ITEM_PURCHASED,2677232,JDG knight,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+9.069516666666667,ITEM_PURCHASED,2677232,JDG 369,Botas Galvanizadas de Aço,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3047_class_t2_ninjatabi.png
+9.1184,ITEM_PURCHASED,2677232,JDG 369,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+9.936,ITEM_PURCHASED,2677232,BLG XUN,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+9.983233333333333,ITEM_PURCHASED,2677232,BLG XUN,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+9.99385,ITEM_PURCHASED,2677232,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+9.9955,ITEM_PURCHASED,2677232,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+10.6966,ITEM_PURCHASED,2677232,JDG Kanavi,Abraço Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4637_mage_t3_demonicembrace.png
+10.71275,ITEM_PURCHASED,2677232,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.334816666666667,ITEM_PURCHASED,2677232,BLG Yagao,Catalisador das Eras,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3803_mage_t2_catalystofaeons.png
+11.3548,ITEM_PURCHASED,2677232,BLG ON,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+11.358683333333333,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.360916666666666,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.367016666666666,ITEM_PURCHASED,2677232,BLG Yagao,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.4059,ITEM_PURCHASED,2677232,JDG MISSING,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+11.415883333333333,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.418683333333334,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.557566666666666,ITEM_PURCHASED,2677232,JDG Ruler,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+11.569783333333334,ITEM_PURCHASED,2677232,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.579733333333333,ITEM_PURCHASED,2677232,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+11.726,ITEM_PURCHASED,2677232,JDG knight,Eclipse,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6692_assassin_t4_eclipse.png
+11.769266666666667,ITEM_PURCHASED,2677232,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+11.9375,ITEM_PURCHASED,2677232,BLG Elk,Força do Vendaval,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6671_marksman_t4_galeforce.png
+11.9898,ITEM_PURCHASED,2677232,BLG XUN,Cutelo Negro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3071_fighter_t3_blackcleaver.png
+11.99535,ITEM_PURCHASED,2677232,BLG Elk,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+12.707483333333334,ITEM_PURCHASED,2677232,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.84585,ITEM_PURCHASED,2677232,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.907533333333333,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+12.90975,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.08095,ITEM_PURCHASED,2677232,BLG Yagao,Varinha Explosiva,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1026_mage_t1_blastingwand.png
+13.186016666666667,ITEM_PURCHASED,2677232,JDG Ruler,Força do Vendaval,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6671_marksman_t4_galeforce.png
+13.196616666666667,ITEM_PURCHASED,2677232,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.200533333333333,ITEM_PURCHASED,2677232,JDG Ruler,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+13.203866666666666,ITEM_PURCHASED,2677232,JDG Ruler,Poção de Vida,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2003_class_t1_healthpotion.png
+13.237833333333333,ITEM_PURCHASED,2677232,JDG MISSING,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+13.25285,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+13.257283333333334,ITEM_PURCHASED,2677232,JDG Kanavi,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+13.268966666666667,ITEM_PURCHASED,2677232,JDG Kanavi,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+13.4564,ITEM_PURCHASED,2677232,JDG knight,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+13.766533333333333,ITEM_PURCHASED,2677232,BLG Bin,Força da Trindade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3078_fighter_t4_trinityforce.png
+13.777133333333333,ITEM_PURCHASED,2677232,BLG Bin,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+13.78045,ITEM_PURCHASED,2677232,BLG Bin,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.0028,ITEM_PURCHASED,2677232,JDG 369,Correntes de Anátema,https://raw.communitydragon.org/latest/game/assets/items/icons2d/8001_tank_t3_anathemaschains.png
+14.010466666666666,ITEM_PURCHASED,2677232,JDG 369,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+14.1297,ITEM_PURCHASED,2677232,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.138,ITEM_PURCHASED,2677232,JDG 369,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+14.3788,ITEM_PURCHASED,2677232,BLG XUN,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+14.3888,ITEM_PURCHASED,2677232,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.666766666666666,ITEM_PURCHASED,2677232,BLG Yagao,Bastão das Eras,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6657_mage_t4_rodofages.png
+14.882433333333333,ITEM_PURCHASED,2677232,JDG knight,Botas Ionianas da Lucidez,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3158_class_t2_ionianbootsoflucidity.png
+14.963866666666666,ITEM_PURCHASED,2677232,BLG ON,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+14.971716666666667,ITEM_PURCHASED,2677232,BLG ON,Amuleto da Fada,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1004_class_t1_faeriecharm.png
+14.97615,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.978916666666667,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+14.983916666666667,ITEM_PURCHASED,2677232,JDG MISSING,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+14.99945,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+15.510216666666667,ITEM_PURCHASED,2677232,JDG 369,Gema Ardente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3067_tank_t1_kindlegem.png
+15.52245,ITEM_PURCHASED,2677232,JDG 369,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.163283333333332,ITEM_PURCHASED,2677232,BLG Yagao,Sapatos do Feiticeiro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3020_class_t2_sorcerersshoes.png
+16.584433333333333,ITEM_PURCHASED,2677232,BLG Bin,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+16.604866666666666,ITEM_PURCHASED,2677232,BLG Bin,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+16.815216666666668,ITEM_PURCHASED,2677232,JDG Ruler,Espada G. p. C.,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1038_marksman_t1_bfsword.png
+16.82465,ITEM_PURCHASED,2677232,JDG knight,Manamune,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3004_marksman_t3_manamune.png
+16.826316666666667,ITEM_PURCHASED,2677232,JDG Ruler,Espada Longa,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1036_class_t1_longsword.png
+16.8369,ITEM_PURCHASED,2677232,JDG knight,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+16.838033333333332,ITEM_PURCHASED,2677232,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.868666666666666,ITEM_PURCHASED,2677232,JDG knight,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+16.8754,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.87765,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.89435,ITEM_PURCHASED,2677232,BLG Elk,Martelo de Guerra de Caulfield,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3133_fighter_t2_caulfieldswarhammer.png
+16.90886666666667,ITEM_PURCHASED,2677232,BLG ON,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+16.91496666666667,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.919416666666667,ITEM_PURCHASED,2677232,BLG Elk,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+16.92945,ITEM_PURCHASED,2677232,BLG Elk,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+16.9339,ITEM_PURCHASED,2677232,BLG Elk,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+16.9367,ITEM_PURCHASED,2677232,BLG Elk,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+16.98,ITEM_PURCHASED,2677232,BLG Elk,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png
+16.990033333333333,ITEM_PURCHASED,2677232,BLG Elk,Lente do Oráculo,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3364_class_t1_oracleslens.png
+16.993366666666667,ITEM_PURCHASED,2677232,BLG Elk,Alteração Vidente,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3363_class_t1_farsightalteration.png
+17.002283333333335,ITEM_PURCHASED,2677232,BLG XUN,Passos de Mercúrio,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3111_class_t2_mercurystreads.png
+17.0175,ITEM_PURCHASED,2677232,JDG Kanavi,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+17.029133333333334,ITEM_PURCHASED,2677232,JDG Kanavi,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+17.042533333333335,ITEM_PURCHASED,2677232,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.048633333333335,ITEM_PURCHASED,2677232,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+17.7085,ITEM_PURCHASED,2677232,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+18.499616666666668,ITEM_PURCHASED,2677232,JDG 369,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+18.507416666666668,ITEM_PURCHASED,2677232,JDG MISSING,Hino Bélico de Shurelya,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2065_tank_t4_shurelyasbattlesong.png
+18.63915,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.732633333333332,ITEM_PURCHASED,2677232,JDG Kanavi,Virtude Radiante,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6667_tank_t4_radiantvirtue.png
+18.797066666666666,ITEM_PURCHASED,2677232,BLG ON,Espelho de Bandópolis,https://raw.communitydragon.org/latest/game/assets/items/icons2d/4642_enchanter_t2_bandleglassmirror.png
+18.803183333333333,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.805433333333333,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.886183333333335,ITEM_PURCHASED,2677232,JDG Ruler,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+18.9474,ITEM_PURCHASED,2677232,JDG knight,Punhal Serrilhado,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3134_assassin_t2_serrateddirk.png
+18.957983333333335,ITEM_PURCHASED,2677232,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+18.9624,ITEM_PURCHASED,2677232,JDG knight,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+19.3665,ITEM_PURCHASED,2677232,BLG Bin,Quebracascos,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3181_hullbreaker.png
+19.980783333333335,ITEM_PURCHASED,2677232,BLG Yagao,Códex Demoníaco,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3108_mage_t2_fiendishcodex.png
+19.983,ITEM_PURCHASED,2677232,JDG 369,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+19.991316666666666,ITEM_PURCHASED,2677232,BLG Yagao,Tomo Amplificador,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1052_mage_t2_amptome.png
+19.991316666666666,ITEM_PURCHASED,2677232,BLG XUN,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+20.000733333333333,ITEM_PURCHASED,2677232,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.002933333333335,ITEM_PURCHASED,2677232,BLG XUN,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.429966666666665,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.431616666666667,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.5023,ITEM_PURCHASED,2677232,JDG 369,Jak'Sho,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6665_tank_t4_jakshotheprotean.png
+20.502866666666666,ITEM_PURCHASED,2677232,BLG Elk,Picareta,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1037_class_t1_pickaxe.png
+20.51556666666667,ITEM_PURCHASED,2677232,BLG Elk,Capa da Agilidade,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1018_base_t1_cloakagility.png
+20.51556666666667,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.51835,ITEM_PURCHASED,2677232,JDG MISSING,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.533383333333333,ITEM_PURCHASED,2677232,JDG MISSING,Cristal de Rubi,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1028_base_t1_rubycrystal.png
+20.56785,ITEM_PURCHASED,2677232,JDG Kanavi,Égide da Legião,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3105_tank_t2_aegisofthelegion.png
+20.61505,ITEM_PURCHASED,2677232,JDG Kanavi,Brasa de Bami,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6660_tank_t2_bamiscinder.png
+20.63785,ITEM_PURCHASED,2677232,JDG Kanavi,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+20.66625,ITEM_PURCHASED,2677232,JDG knight,Cronômetro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2419_mage_t1_stopwatch.png
+20.686216666666667,ITEM_PURCHASED,2677232,JDG knight,Cota de Malha,https://raw.communitydragon.org/latest/game/assets/items/icons2d/1031_base_t2_chainvest.png
+20.7213,ITEM_PURCHASED,2677232,JDG Ruler,Gume do Infinito,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3031_marksman_t3_infinityedge.png
+20.732916666666668,ITEM_PURCHASED,2677232,JDG Ruler,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.30815,ITEM_PURCHASED,2677232,BLG ON,Sentinela de Controle,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2055_class_t1_controlward.png
+21.745733333333334,ITEM_PURCHASED,2677232,BLG Yagao,Cronômetro,https://raw.communitydragon.org/latest/game/assets/items/icons2d/2419_mage_t1_stopwatch.png
+22.043516666666665,ITEM_PURCHASED,2677232,BLG Elk,Adagas Rápidas Navori,https://raw.communitydragon.org/latest/game/assets/items/icons2d/6675_marksman_t3_navoriquickblades.png
+22.094116666666668,ITEM_PURCHASED,2677232,BLG Yagao,Armaguarda da Caçadora,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3191_battlemage_t2_seekersarmguard.png
+22.24341666666667,ITEM_PURCHASED,2677232,BLG Bin,Grevas do Berserker,https://raw.communitydragon.org/latest/game/assets/items/icons2d/3006_class_t2_berserkersgreaves.png

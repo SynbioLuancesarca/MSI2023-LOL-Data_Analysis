@@ -1,0 +1,87 @@
+gameTime,buildingType,lane,turretTier,gameId,positionX,positionY,killerTeam,buildingTeam,assistant1,assistant2,assistant3,assistant4,assistant5,killer
+511690,turretPlate,bot,outer,2677225,13866,4505,JDG,BLG,-,-,-,-,-,
+536830,turretPlate,mid,outer,2677225,8955,8510,JDG,BLG,-,-,-,-,-,JDG knight
+680714,turretPlate,top,outer,2677225,4318,13875,JDG,BLG,-,-,-,-,-,JDG 369
+686083,turretPlate,mid,outer,2677225,8955,8510,JDG,BLG,-,-,-,-,-,JDG knight
+690152,turretPlate,top,outer,2677225,4318,13875,JDG,BLG,-,-,-,-,-,JDG 369
+737620,turretPlate,bot,outer,2677225,10504,1029,BLG,JDG,-,-,-,-,-,
+810833,turretPlate,bot,outer,2677225,13866,4505,JDG,BLG,-,-,-,-,-,JDG Kanavi
+810833,turretPlate,bot,outer,2677225,13866,4505,JDG,BLG,-,-,-,-,-,JDG Kanavi
+829217,turretPlate,top,outer,2677225,4318,13875,JDG,BLG,-,-,-,-,-,
+909060,turret,bot,outer,2677225,13866,4505,JDG,BLG,-,-,-,-,-,JDG knight
+977949,turret,top,outer,2677225,4318,13875,JDG,BLG,-,-,-,-,-,JDG knight
+1062702,turret,mid,outer,2677225,8955,8510,JDG,BLG,JDG Kanavi,-,-,-,-,JDG Ruler
+1334011,turret,bot,outer,2677225,10504,1029,BLG,JDG,-,-,-,-,-,BLG XUN
+1456719,turret,mid,inner,2677225,9767,10113,JDG,BLG,JDG MISSING,JDG knight,JDG Kanavi,JDG 369,-,JDG Ruler
+1465158,turret,mid,base,2677225,11134,11207,JDG,BLG,JDG Ruler,JDG MISSING,JDG knight,JDG Kanavi,-,JDG 369
+1470561,inhibitor,mid,,2677225,11603,11667,JDG,BLG,JDG Ruler,JDG MISSING,JDG knight,JDG Kanavi,-,JDG 369
+1541397,turret,mid,nexus,2677225,13052,12612,JDG,BLG,JDG Ruler,JDG knight,-,-,-,JDG 369
+1545760,turret,mid,nexus,2677225,12611,13084,JDG,BLG,JDG Ruler,JDG 369,-,-,-,JDG knight
+386395,turretPlate,top,outer,2677229,4318,13875,BLG,JDG,-,-,-,-,-,BLG Bin
+414048,turretPlate,top,outer,2677229,4318,13875,BLG,JDG,-,-,-,-,-,
+498531,turretPlate,bot,outer,2677229,10504,1029,JDG,BLG,-,-,-,-,-,
+703649,turretPlate,mid,outer,2677229,5846,6396,JDG,BLG,-,-,-,-,-,JDG knight
+737718,turretPlate,top,outer,2677229,981,10441,JDG,BLG,-,-,-,-,-,JDG 369
+748295,turretPlate,bot,outer,2677229,13866,4505,BLG,JDG,-,-,-,-,-,BLG Elk
+754433,turretPlate,bot,outer,2677229,13866,4505,BLG,JDG,-,-,-,-,-,BLG XUN
+761789,turretPlate,mid,outer,2677229,5846,6396,JDG,BLG,-,-,-,-,-,
+777767,turretPlate,top,outer,2677229,4318,13875,BLG,JDG,-,-,-,-,-,BLG Bin
+898877,turret,bot,outer,2677229,13866,4505,BLG,JDG,-,-,-,-,-,BLG Yagao
+1008033,turret,top,outer,2677229,4318,13875,BLG,JDG,-,-,-,-,-,
+1234879,turret,mid,outer,2677229,8955,8510,BLG,JDG,BLG Bin,BLG Elk,-,-,-,BLG Yagao
+1266401,turret,mid,outer,2677229,5846,6396,JDG,BLG,JDG MISSING,-,-,-,-,JDG Ruler
+1506340,turret,bot,inner,2677229,13327,8226,BLG,JDG,-,-,-,-,-,BLG Bin
+1676828,turret,mid,inner,2677229,9767,10113,BLG,JDG,BLG Yagao,BLG XUN,BLG ON,-,-,BLG Elk
+1749690,turret,mid,base,2677229,11134,11207,BLG,JDG,BLG Bin,BLG XUN,-,-,-,BLG Yagao
+1753028,inhibitor,mid,,2677229,11603,11667,BLG,JDG,BLG Yagao,BLG XUN,-,-,-,BLG Bin
+1827265,turret,top,inner,2677229,7943,13411,BLG,JDG,BLG Yagao,-,-,-,-,BLG Elk
+1856370,turret,top,base,2677229,10481,13650,BLG,JDG,BLG Yagao,BLG Elk,BLG XUN,BLG ON,-,BLG Bin
+1858734,inhibitor,top,,2677229,11261,13659,BLG,JDG,BLG Yagao,BLG Elk,BLG XUN,BLG ON,-,BLG Bin
+1862397,turret,mid,nexus,2677229,12611,13084,BLG,JDG,BLG Yagao,BLG Bin,BLG XUN,BLG ON,-,BLG Elk
+1864933,turret,mid,nexus,2677229,13052,12612,BLG,JDG,BLG Yagao,BLG Elk,BLG XUN,BLG ON,-,BLG Bin
+554388,turretPlate,mid,outer,2677230,8955,8510,JDG,BLG,-,-,-,-,-,JDG knight
+623421,turretPlate,top,outer,2677230,4318,13875,JDG,BLG,-,-,-,-,-,JDG 369
+627096,turretPlate,top,outer,2677230,4318,13875,JDG,BLG,-,-,-,-,-,JDG 369
+710663,turretPlate,bot,outer,2677230,13866,4505,JDG,BLG,-,-,-,-,-,JDG Ruler
+740038,turretPlate,top,outer,2677230,981,10441,BLG,JDG,-,-,-,-,-,BLG Bin
+794775,turretPlate,mid,outer,2677230,8955,8510,JDG,BLG,-,-,-,-,-,
+802246,turretPlate,bot,outer,2677230,13866,4505,JDG,BLG,-,-,-,-,-,JDG Ruler
+803416,turretPlate,mid,outer,2677230,8955,8510,JDG,BLG,-,-,-,-,-,JDG knight
+808754,turretPlate,bot,outer,2677230,13866,4505,JDG,BLG,-,-,-,-,-,JDG Ruler
+825879,turretPlate,mid,outer,2677230,8955,8510,JDG,BLG,-,-,-,-,-,JDG knight
+858921,turret,bot,outer,2677230,13866,4505,JDG,BLG,-,-,-,-,-,
+938513,turret,mid,outer,2677230,8955,8510,JDG,BLG,JDG MISSING,-,-,-,-,JDG Ruler
+1076572,turret,top,outer,2677230,4318,13875,JDG,BLG,JDG 369,-,-,-,-,
+1105991,turret,top,inner,2677230,7943,13411,JDG,BLG,JDG knight,JDG Kanavi,-,-,-,JDG Ruler
+1325717,turret,mid,inner,2677230,9767,10113,JDG,BLG,JDG Ruler,-,-,-,-,JDG knight
+1356014,turret,bot,inner,2677230,13327,8226,JDG,BLG,JDG 369,-,-,-,-,JDG Ruler
+1363515,turret,mid,base,2677230,11134,11207,JDG,BLG,JDG knight,-,-,-,-,JDG MISSING
+1374459,inhibitor,mid,,2677230,11603,11667,JDG,BLG,-,-,-,-,-,JDG knight
+1392273,turret,bot,base,2677230,13624,10572,JDG,BLG,-,-,-,-,-,
+1410138,inhibitor,bot,,2677230,13598,11316,JDG,BLG,JDG Ruler,JDG MISSING,JDG knight,-,-,
+1414248,turret,mid,nexus,2677230,13052,12612,JDG,BLG,JDG Ruler,JDG MISSING,JDG knight,JDG 369,-,JDG Kanavi
+1418454,turret,mid,nexus,2677230,12611,13084,JDG,BLG,JDG MISSING,JDG knight,JDG Kanavi,JDG 369,-,JDG Ruler
+302382,turretPlate,bot,outer,2677232,10504,1029,JDG,BLG,-,-,-,-,-,JDG MISSING
+482757,turretPlate,bot,outer,2677232,10504,1029,JDG,BLG,-,-,-,-,-,JDG Ruler
+507484,turretPlate,top,outer,2677232,4318,13875,BLG,JDG,-,-,-,-,-,
+532431,turretPlate,mid,outer,2677232,5846,6396,JDG,BLG,-,-,-,-,-,
+653661,turretPlate,bot,outer,2677232,13866,4505,BLG,JDG,-,-,-,-,-,
+663974,turretPlate,top,outer,2677232,981,10441,JDG,BLG,-,-,-,-,-,JDG 369
+666919,turretPlate,bot,outer,2677232,13866,4505,BLG,JDG,-,-,-,-,-,BLG XUN
+705755,turretPlate,mid,outer,2677232,5846,6396,JDG,BLG,-,-,-,-,-,
+718052,turretPlate,bot,outer,2677232,13866,4505,BLG,JDG,-,-,-,-,-,
+775421,turretPlate,bot,outer,2677232,10504,1029,JDG,BLG,-,-,-,-,-,JDG knight
+796039,turretPlate,bot,outer,2677232,10504,1029,JDG,BLG,-,-,-,-,-,
+799978,turretPlate,top,outer,2677232,4318,13875,BLG,JDG,-,-,-,-,-,
+802910,turretPlate,mid,outer,2677232,5846,6396,JDG,BLG,-,-,-,-,-,
+883277,turret,bot,outer,2677232,10504,1029,JDG,BLG,-,-,-,-,-,JDG knight
+1061207,turret,mid,outer,2677232,5846,6396,JDG,BLG,JDG Ruler,-,-,-,-,JDG Kanavi
+1109843,turret,top,outer,2677232,981,10441,JDG,BLG,-,-,-,-,-,JDG knight
+1143455,turret,bot,outer,2677232,13866,4505,BLG,JDG,-,-,-,-,-,BLG Bin
+1248754,turret,mid,inner,2677232,5048,4812,JDG,BLG,-,-,-,-,-,
+1286826,turret,top,outer,2677232,4318,13875,BLG,JDG,-,-,-,-,-,BLG Yagao
+1294672,turret,bot,inner,2677232,6919,1483,JDG,BLG,JDG MISSING,JDG knight,JDG Kanavi,-,-,JDG Ruler
+1308676,turret,bot,base,2677232,4281,1253,JDG,BLG,JDG Ruler,-,-,-,-,JDG knight
+1322275,inhibitor,bot,,2677232,3454,1241,JDG,BLG,JDG Ruler,JDG MISSING,JDG Kanavi,-,-,JDG knight
+1330401,turret,mid,nexus,2677232,2177,1807,JDG,BLG,JDG MISSING,JDG knight,JDG Kanavi,-,-,JDG Ruler
+1341471,turret,mid,nexus,2677232,1748,2270,JDG,BLG,JDG Ruler,JDG knight,JDG 369,-,-,
